@@ -2,7 +2,7 @@
 
 ## Overview
 
-You are given a starter Go API service. Your job is to complete it, containerize it, and deploy it to a local Kubernetes cluster using **kind**.
+Develop starter Go API service. Your job is to complete it, containerize it, and deploy it to a local Kubernetes cluster using **kind**.
 
 ---
 
